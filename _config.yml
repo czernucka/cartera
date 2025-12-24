@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: '/cartera/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Миленочка Чернуцкая'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"

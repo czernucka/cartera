@@ -1,8 +1,7 @@
 {
-    "originRepo": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "originRepo": "https://github.com/czernucka/",
     "title": "Jekyll Serif",
     "description": "Serif is a multi page business theme for Jekyll.",
-    "demoUrl": "https://jekyll-advance.netlify.app",
     "categories": {
       "ssg": ["jekyll"],
       "css": ["bootstrap", "scss"],
