@@ -1,6 +1,6 @@
-baseurl: '/cartera/'
+baseurl: "/cartera/"
 permalink: pretty
-title: 'Миленочка Чернуцкая'
+title: "Миленочка Чернуцкая"
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
